@@ -2,8 +2,8 @@
 //  CONFIG — แก้ตรงนี้อย่างเดียว
 // ============================================================
 const CONFIG = {
-  DISCORD_TOKEN: "TOKEN_ใหม่ของคุณ_หลัง_RESET",   // ← ใส่ Token ใหม่
-  GUILD_ID:      "SERVER_ID_ของคุณ",                // ← ใส่ Server ID
+  DISCORD_TOKEN: "MTQ5NjU5MzM4ODExNDQxMTYzMQ.GMlqUn.MN2c5ap6e50aLfLw6SsHLJBqxD3J3DQ-k16i-8",   // ← ใส่ Token ใหม่
+  GUILD_ID:      "1512837517890682930",                // ← ใส่ Server ID
 
   // Roblox Group ID
   ROBLOX_GROUP_ID: "35646818",
@@ -11,9 +11,7 @@ const CONFIG = {
   // Mapping: ชื่อ Rank ใน Roblox Group → Discord Role ID
   // เพิ่ม/ลด ได้เรื่อยๆ
   ROLE_MAP: {
-    "ARMY":      "DISCORD_ROLE_ID_ตรงนี้",
-    "OFFICER":   "DISCORD_ROLE_ID_ตรงนี้",
-    "GENERAL":   "DISCORD_ROLE_ID_ตรงนี้",
+    "[Developer] นักพัฒนา":      "1512850277630345267",
     // เพิ่มเองได้เลย เช่น
     // "VIP":    "123456789012345678",
   },
