@@ -3,7 +3,7 @@
 // ============================================================
 const CONFIG = {
   DISCORD_TOKEN: "MTQ3NTc1ODI5ODY5MDIyODM2Nw.G7o08l.75dkhw1uDsci9-cSrdeEQN6MBbJpcRSKM4ySRo",   // ← ใส่ Token ใหม่
-  GUILD_ID:      "1512837517890682930",                // ← ใส่ Server ID
+  GUILD_ID:      "1497450424456970380",                // ← ใส่ Server ID
 
   // Roblox Group ID
   ROBLOX_GROUP_ID: "35646818",
@@ -11,7 +11,7 @@ const CONFIG = {
   // Mapping: ชื่อ Rank ใน Roblox Group → Discord Role ID
   // เพิ่ม/ลด ได้เรื่อยๆ
   ROLE_MAP: {
-    "[Developer] นักพัฒนา":      "1512850277630345267",
+    "[Developer] นักพัฒนา":      "1497450424456970387",
     // เพิ่มเองได้เลย เช่น
     // "VIP":    "123456789012345678",
   },
