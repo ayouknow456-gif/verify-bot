@@ -2,7 +2,7 @@
 //  CONFIG — แก้ตรงนี้อย่างเดียว
 // ============================================================
 const CONFIG = {
-  DISCORD_TOKEN: "MTQ5NjU5MzM4ODExNDQxMTYzMQ.GMlqUn.MN2c5ap6e50aLfLw6SsHLJBqxD3J3DQ-k16i-8",   // ← ใส่ Token ใหม่
+  DISCORD_TOKEN: "MTQ3NTc1ODI5ODY5MDIyODM2Nw.G7o08l.75dkhw1uDsci9-cSrdeEQN6MBbJpcRSKM4ySRo",   // ← ใส่ Token ใหม่
   GUILD_ID:      "1512837517890682930",                // ← ใส่ Server ID
 
   // Roblox Group ID
